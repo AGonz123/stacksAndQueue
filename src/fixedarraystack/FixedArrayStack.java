@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Lil' Memesto
+ * @author Andrew Gonzales
  */
 public class FixedArrayStack {
     private T[] stack;
